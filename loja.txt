@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Papelaria Papel Presente</title>
+</head>
+<body>
+    <main>
+        <header>
+            <img src="../Papelaria.png" alt="ilustração de uma logo" width="80px"/>
+            <nav>
+                <ul>
+                    <li><a href="#">Todos</a></li>
+                    <li><a href="#">Mais vendidos</a></li>
+                    <li><a href="#">Novidades</a></li>
+                    <li><a href="#">Oferta do dia</a></li>
+                    <li><a href="#">Escrita</a></li>
+                    <li><a href="#">Papelaria</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section></section>
+        <section>
+            <h2>Mais Vendidos</h2>
+            <a href="Os nossos produtos mais vendidos de nossa loja"></a>
+            <img src="../loja 01/IMG/clip coração.jpeg" alt="clip coração" width="100px">
+            <img src="../loja 01/IMG/caneta gel.jpeg" alt="caneta gel" width="100px">
+            <img src="../loja 01/IMG/marcador de paginas.jpeg" alt="marcador de páginas" width="100px">
+        </section>
+        <section></section>
+        <section></section>
+        <section></section>
+        <section></section>
+        <section>
+            <h2>cadastre-se</h2>
+            <form>
+                <label for="inputemail">Email:</label><br>
+                <input placeholder="insira seu email aqui" id="inputemail" name="email"><br>
+            </form>
+        </section>
+        <footer>
+            <img src="../Papelaria.png" alt="logo" width="100px">
+            <p>Papelaria Papel Presente</p>
+            <p>Rua João Barbosa de Lira 936 casa 74 Alto do Sumaré</p>
+            <p>Mossoró Rn</p>
+            <a href="mailto:p.papelpresente@hotmail.com">p.papelpresente@hotmail.com</a>
+        </footer>
+    </main>
+</body>
+</html>
